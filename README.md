@@ -6,7 +6,6 @@
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=henryzhang03&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=henryzhang03&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=henryzhang03&theme=dark&hide_border=true&background=FFFFFF00">
   <br>
   <br>
@@ -15,6 +14,9 @@
 <!--
 **henryzhang03/henryzhang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](@TODO)
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=henryzhang03&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
