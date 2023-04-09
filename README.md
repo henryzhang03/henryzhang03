@@ -7,7 +7,6 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=henryzhang03&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=henryzhang03&theme=dark&hide_border=true&background=FFFFFF00">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzhang03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <br>
 </p>
